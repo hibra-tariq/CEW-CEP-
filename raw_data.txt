@@ -1,0 +1,19 @@
+
+Location: Karachi, Sindh, Pakistan
+Latitude: 24.870000
+Longitude: 67.050000
+Temperature: 23.00
+Wind Speed: 13.00
+Visibility: 5.00
+Location: Karachi, Sindh, Pakistan
+Latitude: 24.870000
+Longitude: 67.050000
+Temperature: 23.00
+Wind Speed: 13.00
+Visibility: 5.00
+Location: Karachi, Sindh, Pakistan
+Latitude: 24.870000
+Longitude: 67.050000
+Temperature: 23.00
+Wind Speed: 13.00
+Visibility: 5.00
